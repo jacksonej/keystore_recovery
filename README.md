@@ -22,7 +22,7 @@ java -jar AndroidKeystoreBrute_v1.05.jar -m 2 -k "C:\\mykeystore.keystore" -d "w
 
 java -jar AndroidKeystoreBrute_v1.05.jar -m 3 -k "C:\\mykeystore.keystore" -d "wordlist.txt"
 
-If there are any spaces in path or filenames, you have to use quotes for the path!!
+##If there are any spaces in path or filenames, you have to use quotes for the path!!
 
 If you want to work on your pc while this is running, just decrease the priority of java.exe (dont't know how to do it in Linux etc..)
 
